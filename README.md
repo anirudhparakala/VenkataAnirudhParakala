@@ -37,9 +37,6 @@
 - **Topic Modeling for Social Media Health Discussions**:  
   Created algorithms to identify health-related topics on Twitter using distributed file systems.
   
-- **Customer Market Segmentation**:  
-  Applied unsupervised machine learning for customer segmentation, driving business insights.
-  
 - 👟 **[Sneaker Authentication System](https://github.com/anirudhparakala/Sneaker-Authentication)**  
   A deep learning project for verifying the authenticity of sneakers.
 
