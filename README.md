@@ -54,7 +54,7 @@
 ---
 
 ## 🛠 Skills
-- **Programming Languages**: Python, C  
+- **Programming Languages**: Python, C, Java
 - **Technical Skills**: SQL, Web Development, MS Excel  
 - **Soft Skills**: Problem Solving, Teamwork, Leadership, Communication  
 - **Learning Full-Stack Development**  
