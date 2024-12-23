@@ -31,7 +31,7 @@
 ---
 
 ## 📚 Projects
-- **[Intrusion Detection System](https://github.com/anirudhparakala/IntrusionDetectionSystemusingML)**
+- **[Intrusion Detection System](https://github.com/anirudhparakala/IntrusionDetectionSystemusingML)**          
   Developed a novel approach to detect intrusions using advanced AI paradigms.
   
 - **Topic Modeling for Social Media Health Discussions:**  
