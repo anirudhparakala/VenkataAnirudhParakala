@@ -31,10 +31,10 @@
 ---
 
 ## 📚 Projects
-- **Intrusion Detection System**:  
+- **[Intrusion Detection System](https://github.com/anirudhparakala/IntrusionDetectionSystemusingML)**
   Developed a novel approach to detect intrusions using advanced AI paradigms.
   
-- **Topic Modeling for Social Media Health Discussions**:  
+- **Topic Modeling for Social Media Health Discussions:**  
   Created algorithms to identify health-related topics on Twitter using distributed file systems.
   
 - 👟 **[Sneaker Authentication System](https://github.com/anirudhparakala/Sneaker-Authentication)**  
