@@ -3,7 +3,7 @@
 ![Profile Banner](./banner.png)
 
 🎓 **Master's Student in Computer Science** at **Cleveland State University**  
-🎯 **Graduating May 2025**  
+🎯 **Graduated May 2025**  
 🤖 Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**  
 🌐 Currently learning **.NET, PHP, and JavaScript**  
 
@@ -52,7 +52,7 @@
 
 ## 🛠 Skills
 - **Programming Languages**: Python, C, Java
-- **Technical Skills**: SQL, Web Development, MS Excel  
+- **Technical Skills**: SQL, Web Development, MS Excel, Power BI, AWS
 - **Soft Skills**: Problem Solving, Teamwork, Leadership, Communication  
 - **Learning Full-Stack Development**  
   Gaining Hands-on experience with .NET, PHP, and JavaScript for building web applications.
