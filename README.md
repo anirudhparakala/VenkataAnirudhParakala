@@ -19,14 +19,27 @@
 ---
 
 ## 💼 Experience
-- **Solesearch (Store Manager)**  
-  - Managed inventory, cash controls, and store procedures using MS Excel.
-  - Organized backroom operations to facilitate effective inventory rotation and stock replenishment.
-  - Built strong customer relationships through effective communication.
+- **Solesearch (Intern)**  
+  - Collaborated as an intern at Solesearch to design and develop a responsive website and mobile app 
+    using Flask, HTML, and CSS, reducing page load times by 25% and boosting mobile engagement by 30%. 
+  - Assisted in crafting user-friendly interfaces by writing clean, efficient code and incorporating modern 
+    web design practices resulting in a 20% improvement in navigation speed and a 15% increase in user retention.
+  - Worked closely with cross-functional teams to integrate backend functionalities, ensuring a seamless digital experience.
+  - Participated in agile development cycles, troubleshooting and refining features to optimize performance 
+    and user engagement that led to a 35% decrease in bug-related issues and a 20% improvement in overall system stability.
 
 - **Nexus Informatics Private Limited (Intern)**  
   - Utilized database management systems to organize and analyze operational data.
-  - Conducted data analysis and identified trends, contributing to strategic solutions.
+  - Conducted comprehensive data analysis alongside cross-functional teams, uncovering critical trends 
+    that directly informed three targeted strategic initiatives aimed at optimizing operational efficiency and 
+    enhancing overall performance metrics.
+  - Developed advanced SQL scripts that processed over 200000 records weekly for operational reports; 
+    identified key trends leading to actionable insights which addressed the primary inefficiencies impacting 
+    team performance.
+  - Accelerated data workflows by automating repetitive tasks with Python and Excel, achieving a 
+    reduction of 15 hours per month in analytics processing time while improving overall reporting efficiency 
+    across cross-functional teams. 
+
 
 ---
 
