@@ -2,21 +2,13 @@
 
 ![Profile Banner](./banner.png)
 
-🎓 **Master's Student in Computer Science** at **Cleveland State University**  
-🎯 **Graduated May 2025**  
+🎓 **Master's Student in Computer Science** at **Cleveland State University**    
 🤖 Passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**  
 🌐 Currently learning **.NET, PHP, and JavaScript**  
 
 ---
 
 ## 🚀 About Me
-🛠 **Skills**:
-- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- **Frameworks & Libraries**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- **Web Development**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi)
-
----
 
 ## 💼 Experience
 - **Solesearch (Intern)**  
@@ -44,15 +36,16 @@
 ---
 
 ## 📚 Projects
+
+- 👟 **[Sneaker Authentication System](https://github.com/anirudhparakala/sneaker-auth-demo)**  
+  Streamlit-based AI tool for verifying sneaker authenticity using Grad-CAM and context-aware classifiers.
+  
 - **[Intrusion Detection System](https://github.com/anirudhparakala/IntrusionDetectionSystemusingML)**          
   Developed a novel approach to detect intrusions using advanced AI paradigms.
   
 - **[Topic Modeling for Social Media Health Discussions](https://github.com/anirudhparakala/Twitter-Data-Analysis)**  
   Created algorithms to identify health-related topics on Twitter using distributed file systems.
   
-- 👟 **[Sneaker Authentication System](https://github.com/anirudhparakala/Sneaker-Authentication)**  
-  A deep learning project for verifying the authenticity of sneakers.
-
 ---
 
 ## 🏆 Certifications
@@ -64,9 +57,10 @@
 ---
 
 ## 🛠 Skills
-- **Programming Languages**: Python, C, Java
-- **Technical Skills**: SQL, Web Development, MS Excel, Power BI, AWS
-- **Soft Skills**: Problem Solving, Teamwork, Leadership, Communication  
+- **Programming Languages**: Python, JavaScript, C#, Java
+- **Web Development**: HTML, CSS, JavaScript, React, PHP, .NET
+- **Data Science / AI**: TensorFlow, Scikit-learn, Pandas, NumPy, PyTorch
+- **Tools**: Git, Power BI, SQL, Excel, AWS  
 - **Learning Full-Stack Development**  
   Gaining Hands-on experience with .NET, PHP, and JavaScript for building web applications.
 ---
