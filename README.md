@@ -37,7 +37,7 @@
 
 ## 📚 Projects
 
-- 👟 **[Sneaker Authentication System](https://github.com/anirudhparakala/sneaker-auth-demo)**  
+- **[Sneaker Authentication System](https://github.com/anirudhparakala/sneaker-auth-demo)**  
   Streamlit-based AI tool for verifying sneaker authenticity using Grad-CAM and context-aware classifiers.
   
 - **[Intrusion Detection System](https://github.com/anirudhparakala/IntrusionDetectionSystemusingML)**          
