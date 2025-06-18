@@ -45,6 +45,8 @@
   
 - **[Topic Modeling for Social Media Health Discussions](https://github.com/anirudhparakala/Twitter-Data-Analysis)**  
   Created algorithms to identify health-related topics on Twitter using distributed file systems.
+- **[Calorie Estimator AI](https://github.com/anirudhparakala/Calorie-estimator)**
+  Developed models to detect food items and estimate nutritional content from images using multimodal large language models.
   
 ---
 
